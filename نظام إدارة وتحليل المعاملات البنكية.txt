@@ -1,0 +1,8 @@
+Bank Transactions Analyzer
+A lightweight PHP application designed to parse, process, and analyze bank transaction files (CSV format), calculate financial summaries, and present the results in a clean, user-friendly HTML dashboard. 
+  🚀 Features
+1. Automated File Scanning: Automatically detects and reads all CSV transaction files inside the designated directory. 
+2. Flexible Data Parsing: Cleans and formats raw transaction rows (e.g., removing currency symbols and commas for accurate calculations). 
+3. Financial Summaries: Instantly computes:Total Income   Total Expenses   Net Total  
+4. Dynamic UI Presentation: Displays transactions in a clean table with color-coded amounts (Green for income/positive amounts, Red for expenses/negative amounts) and formatted dates. 
+   
